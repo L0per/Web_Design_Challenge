@@ -8,6 +8,12 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.dropdown-menu-right {
+  right: auto;
+  left: auto;
+}
+
 /* Style the buttons */
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
